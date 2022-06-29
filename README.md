@@ -47,5 +47,5 @@ The following required libraries need to be installed. We can install these pack
 * Daily Summary
 
 ## Conclusion: <a name="results"></a>
-As there many ups and downs in the Apparant Tempreture in the above images for different months over the 10 year period. So , We can conclude that global warming has caused a major difference and unreliability in temperature while the average humidity has remained constant throughout the 10 years.
+From this analysis we infer that there are either sharp rise in temperatures or sharp falls over the 10 yrs. So , We can conclude that global warming has caused a major difference and unreliability in temperature while the average humidity has remained constant throughout the 10 years.
 
