@@ -1,5 +1,6 @@
 <h1 align="center">Performing Analysis of Meteorological Data</h1>
-
+<h3 align="center">Is there any change due in weather to global warming in of Finland by using Data analytics ?</h3> 
+Is there any change due in weather to global warming in of Finland by using Data analytics ?
 ## Table of Contents
 - [Hypothesis](#obj)
 - [Installation of libraries](#installation)
@@ -8,11 +9,11 @@
 
 
 ## Hypothesis for this project: <a name="obj"></a>
-Perform Data Cleaning, Perform Analysis for Testing the (given) Hypothesis and finally put-forth your conclusion by writing a blog article.
+The Hypothesis means we need to find whether the average Apparent temperature for the month of a month say April starting from 2006 to 2016 and the average humidity for the same period have increased or not. This monthly analysis has to be done for all 12 months over the 10 year period. So you are basically resampling your data from hourly to monthly, then comparing the same month over the 10 year period. 
 
 
 ## Installation of libraries <a name="installation"></a>
-You need to be able to work in a Jupyter Notebook on your computer. The following packages (libraries) need to be installed. You can install these packages via conda or pip.
+The following required libraries need to be installed. We can install these packages via conda or pip.
 
 - Pandas
 - Numpy
@@ -43,8 +44,5 @@ You need to be able to work in a Jupyter Notebook on your computer. The followin
 * Daily Summary
 
 ## Conclusion: <a name="results"></a>
-The main findings of the code can be found at the post available [here](https://betu-abhishek20182.medium.com/performing-analysis-of-meteorological-data-c4db81e25ee2) or [here](https://www.kaggle.com/abhishek20182/performing-analysis-of-meteorological-data)
-
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/muthuj7/weather-dataset).
+As there many ups and downs in the Apparant Tempreture in the above images for different months over the 10 year period. So , We can conclude that global warming has caused a major difference and unreliability in temperature while the average humidity has remained constant throughout the 10 years.
 
